@@ -1,0 +1,430 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.9.18)  21 MAY 2017 16:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**eageabs.ltx
+(./eageabs.ltx
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/home/wtf/texmf/tex/latex/cwp/eageabs.cls
+Document Class: eageabs 2009/05/01 v1.0 EAGE Abstract Class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\box@width=\skip52
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip53
+\subfigcapskip=\skip54
+\subfigcaptopadj=\dimen105
+\subfigbottomskip=\skip55
+\subfigcapmargin=\dimen106
+\subfiglabelskip=\skip56
+\c@subfigure=\count88
+\c@lofdepth=\count89
+\c@subtable=\count90
+\c@lotdepth=\count91
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip57
+\subfig@bottom=\skip58
+)
+\c@sub@fig=\count92
+\c@@append=\count93
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip59
+\bibsep=\skip60
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+LaTeX Info: Redefining \refname on input line 227.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box26
+\UL@hyphenbox=\box27
+\UL@skip=\skip61
+\UL@hook=\toks15
+\UL@height=\dimen107
+\UL@pe=\count95
+\UL@pixel=\dimen108
+\ULC@box=\box28
+Package: ulem 2012/05/18
+\ULdepth=\dimen109
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip62
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen110
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen111
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen112
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks18
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks19
+\eqnshift@=\dimen113
+\alignsep@=\dimen114
+\tagshift@=\dimen115
+\tagwidth@=\dimen116
+\totwidth@=\dimen117
+\lineht@=\dimen118
+\@envbody=\toks20
+\multlinegap=\skip63
+\multlinetaggap=\skip64
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(./eageabs.aux
+
+LaTeX Warning: Label `eq:GradientVel' multiply defined.
+
+)
+\openout1 = `eageabs.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 16.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen119
+\scratchbox=\box31
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen120
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 25.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 25.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (./summary.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+(./introduction.tex) (./theory.tex
+<eagelogo.pdf, id=8, 628.3475pt x 282.05376pt>
+File: eagelogo.pdf Graphic file (type pdf)
+ <use eagelogo.pdf>
+Package pdftex.def Info: eagelogo.pdf used on input line 92.
+(pdftex.def)             Requested size: 127.19173pt x 57.08974pt.
+ [2
+
+ </home/wtf/texmf/tex/latex/cwp/eagelogo.pdf>]
+<sigbee2/Fig/cuttruevp.pdf, id=130, 578.16pt x 289.08pt>
+File: sigbee2/Fig/cuttruevp.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/cuttruevp.pdf>
+Package pdftex.def Info: sigbee2/Fig/cuttruevp.pdf used on input line 139.
+(pdftex.def)             Requested size: 218.54263pt x 109.26929pt.
+
+<sigbee2/Fig/cuttruevs.pdf, id=131, 578.16pt x 289.08pt>
+File: sigbee2/Fig/cuttruevs.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/cuttruevs.pdf>
+Package pdftex.def Info: sigbee2/Fig/cuttruevs.pdf used on input line 140.
+(pdftex.def)             Requested size: 218.54263pt x 109.26929pt.
+
+<sigbee2/Fig/cutinitvp.pdf, id=132, 578.16pt x 289.08pt>
+File: sigbee2/Fig/cutinitvp.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/cutinitvp.pdf>
+Package pdftex.def Info: sigbee2/Fig/cutinitvp.pdf used on input line 141.
+(pdftex.def)             Requested size: 218.54263pt x 109.26929pt.
+
+<sigbee2/Fig/cutinitvs.pdf, id=133, 578.16pt x 289.08pt>
+File: sigbee2/Fig/cutinitvs.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/cutinitvs.pdf>
+Package pdftex.def Info: sigbee2/Fig/cutinitvs.pdf used on input line 142.
+(pdftex.def)             Requested size: 218.54263pt x 109.26929pt.
+
+<sigbee2/Fig/newinit3vp.pdf, id=134, 578.16pt x 289.08pt>
+File: sigbee2/Fig/newinit3vp.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/newinit3vp.pdf>
+Package pdftex.def Info: sigbee2/Fig/newinit3vp.pdf used on input line 174.
+(pdftex.def)             Requested size: 218.54263pt x 109.26929pt.
+
+<sigbee2/Fig/newinit3vs.pdf, id=135, 578.16pt x 289.08pt>
+File: sigbee2/Fig/newinit3vs.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/newinit3vs.pdf>
+Package pdftex.def Info: sigbee2/Fig/newinit3vs.pdf used on input line 175.
+(pdftex.def)             Requested size: 218.54263pt x 109.26929pt.
+
+<sigbee2/Fig/nodevp.pdf, id=136, 578.16pt x 289.08pt>
+File: sigbee2/Fig/nodevp.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/nodevp.pdf>
+Package pdftex.def Info: sigbee2/Fig/nodevp.pdf used on input line 176.
+(pdftex.def)             Requested size: 218.54263pt x 109.26929pt.
+
+<sigbee2/Fig/nodevs.pdf, id=137, 578.16pt x 289.08pt>
+File: sigbee2/Fig/nodevs.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/nodevs.pdf>
+Package pdftex.def Info: sigbee2/Fig/nodevs.pdf used on input line 177.
+(pdftex.def)             Requested size: 218.54263pt x 109.26929pt.
+
+<sigbee2/Fig/1km.pdf, id=138, 562.1pt x 378.41376pt>
+File: sigbee2/Fig/1km.pdf Graphic file (type pdf)
+ <use sigbee2/Fig/1km.pdf>
+Package pdftex.def Info: sigbee2/Fig/1km.pdf used on input line 186.
+(pdftex.def)             Requested size: 218.54263pt x 147.1246pt.
+
+<sigbee2/Fig/3km.pdf, id=139, 561.09625pt x 378.41376pt>
+File: sigbee2/Fig/3km.pdf Graphic file (type pdf)
+
+<use sigbee2/Fig/3km.pdf>
+Package pdftex.def Info: sigbee2/Fig/3km.pdf used on input line 187.
+(pdftex.def)             Requested size: 218.54263pt x 147.38445pt.
+File: eagelogo.pdf Graphic file (type pdf)
+ <use eagelogo.pdf>
+Package pdftex.def Info: eagelogo.pdf used on input line 206.
+(pdftex.def)             Requested size: 127.19173pt x 57.08974pt.
+ [3]
+File: eagelogo.pdf Graphic file (type pdf)
+ <use eagelogo.pdf>
+Package pdftex.def Info: eagelogo.pdf used on input line 206.
+(pdftex.def)             Requested size: 127.19173pt x 57.08974pt.
+ [4 <./sigbee2/Fig/cuttruevp.pdf> <./sigbee2/Fig/cuttruevs.pdf> <./sigbee2/Fig/
+cutinitvp.pdf> <./sigbee2/Fig/cutinitvs.pdf> <./sigbee2/Fig/newinit3vp.pdf> <./
+sigbee2/Fig/newinit3vs.pdf> <./sigbee2/Fig/nodevp.pdf> <./sigbee2/Fig/nodevs.pd
+f>])
+(./eageabs.bbl
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+)
+File: eagelogo.pdf Graphic file (type pdf)
+ <use eagelogo.pdf>
+Package pdftex.def Info: eagelogo.pdf used on input line 39.
+(pdftex.def)             Requested size: 127.19173pt x 57.08974pt.
+ [5 <./sigbee2/Fig/1km.pdf> <./sigbee2/Fig/3km.pdf>] (./eageabs.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3397 strings out of 493089
+ 44788 string characters out of 6134848
+ 114103 words of memory out of 5000000
+ 6780 multiletter control sequences out of 15000+600000
+ 30131 words of font info for 74 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,15n,45p,371b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fo
+nts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on eageabs.pdf (5 pages, 1050569 bytes).
+PDF statistics:
+ 253 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+

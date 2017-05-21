@@ -1,0 +1,24 @@
+\section{Summary}
+Elastic full waveform inversion (EFWI) provides high-resolution parameter estimation of the
+subsurface but requires good initial guess of the true model.
+%to cope with the serious
+%nonlinearity and parameter trade-offs.
+%Elastic reflections carry background information of the P and S wave velocities can be in favor of EFWI with good initial P and S wave
+%velocity models, 
+The traveltime inversion only minimizes traveltime misfits which are more sensitive and
+linearly related to the low-wavenumber model perturbation.
+Therefore, building initial P and S wave velocity models for EFWI by using elastic wave-equation
+reflections traveltime inversion (WERTI) would be effective and robust, especially for the deeper part. 
+%However, in elastic case, it is
+%difficult to extract the traveltime of a particular wave modes due to complicated
+%mode-conversions.
+In order to distinguish the reflection travletimes of P or S-waves in elastic media,
+we decompose the surface multicomponent data into vector P- and S-wave seismogram.
+We utilize the dynamic image warping to extract the reflected P- or S-wave
+traveltimes.
+The P-wave velocity are first inverted using P-wave traveltime followed by the S-wave velocity
+inversion with S-wave traveltime,
+during which the wave mode decomposition is applied to the gradients calculation.
+Synthetic example on the Sigbee2A model proves the validity
+of our method for recovering the long wavelength components of the model.
+\onecolumn

@@ -1,0 +1,62 @@
+\begin{thebibliography}{}
+\itemsep0pt
+
+\bibitem[Brossier et~al., 2009]{brossier2009}
+Brossier, R., S. Operto, and J. Virieux,  2009, Seismic imaging of complex
+  onshore structures by 2d elastic frequency-domain full-waveform inversion:
+  Geophysics, {\bf 74}, WCC105--WCC118.
+
+\bibitem[Chi et~al., 2015]{Chi2015}
+Chi, B., L. Dong, and Y. Liu,  2015, Correlation-based reflection full-waveform
+  inversion: {GEOPHYSICS}, {\bf 80}, R189--R202.
+
+\bibitem[Guo and Alkhalifah, 2016]{Guo2016}
+Guo, Q., and T. Alkhalifah,  2016, {\it in} A nonlinear approach of elastic
+  reflection waveform inversion: Society of Exploration Geophysicists,
+  1421--1425.
+
+\bibitem[Hale, 2013]{Hale2013}
+Hale, D.,  2013, Dynamic warping of seismic images: GEOPHYSICS, {\bf 78},
+  S105--S115.
+
+\bibitem[Li et~al., 2016]{Li2016a}
+Li, Z., X. Ma, C. Fu, B. Gu, and G. Liang,  2016, Frequency-wavenumber
+  implementation for p- and s-wave separation from multi-component seismic
+  data: Exploration Geophysics, {\bf 47}, 32.
+
+\bibitem[Luo et~al., 2016]{Luo2016}
+Luo, Y., Y. Ma, Y. Wu, H. Liu, and L. Cao,  2016, Full-traveltime inversion:
+  GEOPHYSICS, {\bf 81}, R261--R274.
+
+\bibitem[Ma and Hale, 2013]{Ma2013}
+Ma, Y., and D. Hale,  2013, Wave-equation reflection traveltime inversion with
+  dynamic warping and full-waveform inversion: GEOPHYSICS, {\bf 78},
+  R223--R233.
+
+\bibitem[Sears et~al., 2008]{sears:2008}
+Sears, T., S. Singh, and P. Barton,  2008, Elastic full waveform inversion of
+  multi-component {OBC} seismic data: Geophysical Prospecting, {\bf 56},
+  843--862.
+
+\bibitem[Wang et~al., 2015]{Wang2015a}
+Wang, T., J. Cheng, and C. Wang,  2015, Elastic wave mode decoupling for full
+  waveform inversion: Presented at the 77th {EAGE} Conference and Exhibition
+  2015, {EAGE} Publications.
+
+\bibitem[Wu and Alkhalifah, 2015]{Wu2015b}
+Wu, Z., and T. Alkhalifah,  2015, Simultaneous inversion of the background
+  velocity and the perturbation in full-waveform inversion: GEOPHYSICS, {\bf
+  80}, R317--R329.
+
+\bibitem[Xu et~al., 2012]{xu:2012}
+Xu, S., D. Wang, F. Chen, G. Lambare, and Y. Zhang,  2012, Inversion on
+  reflected seismic wave: 82nd Annual International Meeting, SEG, Expanded
+  Abstracts,  1--7.
+
+\bibitem[Zhou et~al., 2015]{Zhou2015}
+Zhou, W., R. Brossier, S. Operto, and J. Virieux,  2015, Full waveform
+  inversion of diving \& reflected waves for velocity model building with
+  impedance inversion based on scale separation: Geophysical Journal
+  International, {\bf 202}, 1535--1554.
+
+\end{thebibliography}

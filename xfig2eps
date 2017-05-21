@@ -1,0 +1,15 @@
+#!/bin/bash
+cp $1.pstex_t ~/xfig2eps_shell/temp.pstex_t
+cp $1.pstex ~/xfig2eps_shell/
+cp ~/xfig2eps_shell/xfig_to_eps.tex ~/xfig2eps_shell/tmp_xfig_to_eps.tex
+cd ~/xfig2eps_shell/
+latex tmp_xfig_to_eps
+dvips -E -o $1.eps tmp_xfig_to_eps.dvi
+rm temp.pstex_t
+rm $1.pstex
+rm xfig_to_eps.aux
+rm xfig_to_eps.dvi
+rm xfig_to_eps.log
+rm xfig_to_eps.tex
+cd -
+mv ~/xfig2eps_shell/$1.eps ./

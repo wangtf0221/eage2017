@@ -1,0 +1,34 @@
+\section{Introduction}
+Elastic full
+waveform inversion provides high-resolution 
+model estimation but notoriously surfers from the nonlinearities of
+multi-parameter inversion and also the same cycle-skipping problem as in acoustic
+case \cite[]{sears:2008,brossier2009}.
+\cite{xu:2012} suggested using a reflection waveform inversion (RWI) method, 
+which aim to
+invert the long-wavelength components of the model by using the reflections 
+predicted by migration/demigration process.
+Through minimizing misfit function of waveform, the RWI method are developed
+by several work \cite[]{Wu2015b,Zhou2015}, and recently extended to elastic case by
+\cite{Guo2016}.
+
+%\cite{Zhou2015} proposed a joint FWI method to combine the diving and reflected waves to
+%utilize both the conventional FWI and RWI.
+%In addition, \cite{Wang:2015} found that wave mode decomposition may be beneficial to deal with the
+%elastic parameter trade-offs.
+However, traveltime information are more sensitive and linearly related to
+low-wavenumber model perturbation. Using traveltime inversion will be more robust and helpful to
+build appropriate initial models containing long-wavelength components for
+conventional FWI \cite[]{Ma2013, Chi2015, Luo2016}.
+Unfortunately, in elastic case, traveltimes of a particular wave modes are difficult
+to extract due to the complicated mode-conversions.
+%Elastic reflections carry background information of the P and S wave velocities can
+%be in favor of EFWI with good initial P and S wave
+%velocity models, 
+In this abstract,   
+we aim to tackle the traveltime misfits of P-P and P-S reflections with the help
+of wave mode decomposition and dynamic image warping (DIW) \cite[]{Hale2013}.
+Then, we use the traveltime of P-P and P-S reflections to implement the 
+WERTI method \cite[]{Ma2013} with a two-stage workflow.
+Finally, the numerical example of Sigsee2A model proves the robustness and validity of our
+elastic WERTI method.

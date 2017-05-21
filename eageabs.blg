@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: eageabs.aux
+The style file: seg.bst
+Database file #1: reference.bib
+Name 2 in "T.J. Sears and S.C. Singh, and P.J. Barton" has a comma at the end for entry sears:2008
+while executing---line 1491 of file seg.bst
+Name 2 in "R. Brossier and S. Operto, and J. Virieux" has a comma at the end for entry brossier2009
+while executing---line 1491 of file seg.bst
+Name 2 in "S. Xu and D. Wang, and F. Chen, and G. Lambare and Y. Zhang" has a comma at the end for entry xu:2012
+while executing---line 1491 of file seg.bst
+Name 3 in "S. Xu and D. Wang, and F. Chen, and G. Lambare and Y. Zhang" has a comma at the end for entry xu:2012
+while executing---line 1491 of file seg.bst
+Name 2 in "R. Brossier and S. Operto, and J. Virieux" has a comma at the end for entry brossier2009
+while executing---line 1586 of file seg.bst
+Warning--empty chapter in Guo2016
+Name 2 in "T.J. Sears and S.C. Singh, and P.J. Barton" has a comma at the end for entry sears:2008
+while executing---line 1586 of file seg.bst
+Name 2 in "S. Xu and D. Wang, and F. Chen, and G. Lambare and Y. Zhang" has a comma at the end for entry xu:2012
+while executing---line 1586 of file seg.bst
+Name 3 in "S. Xu and D. Wang, and F. Chen, and G. Lambare and Y. Zhang" has a comma at the end for entry xu:2012
+while executing---line 1586 of file seg.bst
+You've used 12 entries,
+            2639 wiz_defined-function locations,
+            780 strings with 8011 characters,
+and the built_in function-call counts, 5386 in all, are:
+= -- 574
+> -- 225
+< -- 6
++ -- 78
+- -- 76
+* -- 483
+:= -- 910
+add.period$ -- 12
+call.type$ -- 12
+change.case$ -- 97
+chr.to.int$ -- 12
+cite$ -- 13
+duplicate$ -- 180
+empty$ -- 382
+format.name$ -- 94
+if$ -- 1124
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 13
+newline$ -- 40
+num.names$ -- 36
+pop$ -- 80
+preamble$ -- 1
+purify$ -- 98
+quote$ -- 0
+skip$ -- 138
+stack$ -- 0
+substring$ -- 430
+swap$ -- 25
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 70
+warning$ -- 1
+while$ -- 39
+width$ -- 0
+write$ -- 134
+(There were 8 error messages)
